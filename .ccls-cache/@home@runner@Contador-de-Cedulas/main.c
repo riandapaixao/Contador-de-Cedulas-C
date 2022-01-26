@@ -4,7 +4,7 @@ int main() {
  
  int valor, troco, duzentos, cem, cinquenta, vinte, dez, 
  cinco, dois, um;
-
+printf("Digite o valor em que o sistema irá separar as notas: \n");
 scanf("%d",&valor);
 
 troco = valor;
